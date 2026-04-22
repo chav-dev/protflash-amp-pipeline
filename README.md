@@ -1,2 +1,3 @@
 # protflash-amp-pipeline
-Pipeline explicable para clasificar AMPs con embeddings de ProtFlash.
+Código reproducible del artículo *"Flujo explicable para clasificar péptidos antimicrobianos con lenguaje de proteínas"*. 
+Implementa un pipeline de clasificación AMP vs no-AMP utilizando embeddings generados con ProtFlash, combinado con métodos de inteligencia artificial explicable (XAI) para interpretar las decisiones del modelo y extraer patrones bioquímicos relevantes.
